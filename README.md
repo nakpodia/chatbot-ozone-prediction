@@ -384,7 +384,7 @@ This application is for **educational and research purposes**. Predictions are b
 **Clinton Nakpodia**
 📧 Nakpodiaclinton@gmail.com
 🔗 [GitHub](https://github.com/nakpodia)
-💼 [LinkedIn](https://linkedin.com/in/YourProfile)
+💼 [LinkedIn](https://linkedin.com/in/cnakpodia)
 
 ---
 
